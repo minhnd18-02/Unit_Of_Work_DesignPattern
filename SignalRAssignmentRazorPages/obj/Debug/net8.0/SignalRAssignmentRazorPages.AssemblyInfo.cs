@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRAssignmentRazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02b6b7e33f462cd71ceb064e71a55cc3931d72ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRAssignmentRazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRAssignmentRazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

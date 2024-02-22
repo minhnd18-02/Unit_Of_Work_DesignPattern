@@ -70,3 +70,4 @@ D:\Documents\Repositories\SignalRAssignment\SignalRAssignmentRazorPages\obj\Debu
 D:\Documents\Repositories\SignalRAssignment\SignalRAssignmentRazorPages\obj\Debug\net8.0\SignalRAssignmentRazorPages.genruntimeconfig.cache
 D:\Documents\Repositories\SignalRAssignment\SignalRAssignmentRazorPages\obj\Debug\net8.0\ref\SignalRAssignmentRazorPages.dll
 D:\Documents\Repositories\SignalRAssignment\SignalRAssignmentRazorPages\bin\Debug\net8.0\efpt.config.json
+D:\Documents\Repositories\SignalRAssignment\SignalRAssignmentRazorPages\obj\Debug\net8.0\SignalRAssignmentRazorPages.sourcelink.json
